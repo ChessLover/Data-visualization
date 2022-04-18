@@ -1,0 +1,1 @@
+Project file is just  jupyter notebook, so no any special requirements are needed for now. 
