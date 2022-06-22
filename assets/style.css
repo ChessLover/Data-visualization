@@ -1,0 +1,21 @@
+body {
+    background-image: url("/assets/back.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+div {
+	background-color: #E3E4FA;
+}
+
+h1 {
+	text-align : center; 
+	text-decoration: underline;
+	color: #949291;
+}
+
+p {
+	text-align : center; 
+	font-size: 19px;
+	font-weight: bold;
+}
