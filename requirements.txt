@@ -1,1 +1,2 @@
-Project file is just  jupyter notebook, so no any special requirements are needed for now. 
+Dashboard project file is in ordinary py file, which can be executed in any python environment. 
+No any special setup required.
